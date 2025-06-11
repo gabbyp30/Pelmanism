@@ -1,0 +1,19 @@
+[
+    {
+        "image": "data/babyE.jpg",
+        "name": "babyE" 
+    },
+    {
+        "image":"../assets/black.jpg",
+        "name": "black"
+    },
+    {
+        "image":"../assets/babyA.jpg",
+        "name": "babyA"
+    },
+    {
+        "image":"../assets/pizza.jpg",
+        "name": "pizza"
+    }
+
+]
